@@ -3,19 +3,19 @@ function createReservationTab() {
     reservation.className = 'reservation'
     reservation.innerHTML = `
     <h1 id="heading">Reseravations</h1>
-    <form action="#" id="form">
+    <form action="https://formspree.io/f/xqkrzwnz" id="form">
         <div id="part1">
             <div>
                 <label for="customer-name">Name: </label>
-                <input type="text" name="customer-name" id="customer-name">
+                <input type="text" name="Customer Name: " id="customer-name">
             </div>
             <div>
                 <label for="email">Email: </label>
-                <input type="email" name="email" id="email">
+                <input type="Customer Email: " name="email" id="email">
             </div>
             <div>
                 <label for="date">Pick Date: </label>
-                <input type="date" name="time" id="date">
+                <input type="date" name="Time Picked: " id="date">
             </div>
             <div>
                 <label for="guest">No_ of Guests: </label>
@@ -26,7 +26,7 @@ function createReservationTab() {
         <div  id="part2">
             <div>
                 <div><label for=""> Special Requests: </label></div>
-                <textarea name="request" cols="25" rows="7"></textarea>
+                <textarea name="Special Requests: " cols="25" rows="7"></textarea>
             </div>
             <div>
                 <label for="times">See Available Times: </label>
