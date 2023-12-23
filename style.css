@@ -31,6 +31,8 @@
     font-size: 37px;
     margin-bottom: 30px;
     text-shadow: 3px 3px 5px rgb(0, 0, 0);
+    cursor: pointer;
+    user-select: none;
 }
 .nav-items {
     display: flex;
@@ -71,6 +73,7 @@
     -webkit-text-stroke: #ffffff 2px;
     justify-content: center;
     align-items: center;
+    user-select: none;
 }
 .welcome h2 {
     text-align: center;
