@@ -69,7 +69,7 @@ resTab.addEventListener('click', ()=>{
     createBackground(resTab)
     removeBackground(menuTab, homeTab, contactTab)
     const submitBtn = document.querySelector('input[type="submit"]')
-    submitBtn.addEventListener('click', (e)=>{alert('Bravo! Your reservation is saved!');})
+    // submitBtn.addEventListener('click', (e)=>{alert('Bravo! Your reservation is saved!');})
 })
 
 contactTab.addEventListener('click', ()=>{

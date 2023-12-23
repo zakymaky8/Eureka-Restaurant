@@ -3,7 +3,7 @@ function createReservationTab() {
     reservation.className = 'reservation'
     reservation.innerHTML = `
     <h1 id="heading">Reseravations</h1>
-    <form action="https://formspree.io/f/xqkrzwnz" id="form">
+    <form action="https://formspree.io/f/xjvnbjzl" id="form" method="POST">
         <div id="part1">
             <div>
                 <label for="customer-name">Name: </label>
