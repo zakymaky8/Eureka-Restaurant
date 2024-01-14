@@ -19,6 +19,9 @@ Simple fictional Restaurant Page guided by TOP (The Odin Project)
 - Open up index.html in your preferred browser or to spice things up, get the demo link below. then dwell on it.
 - stumble across each nav items to see flips of tabs.
 
+## Screenshot
+[Here is the sneakpeak of the page](./dist/Assets/eureka.png)
+
 ## Contributing
 - It is Okay to make my code dirty.
 1. first fork the repository
