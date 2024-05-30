@@ -20,7 +20,7 @@ Simple fictional Restaurant Page guided by TOP (The Odin Project)
 - stumble across each nav items to see flips of tabs.
 
 ## Screenshot
-[Here is the sneakpeak of the page](./dist/Assets/eureka.png)
+![Here is the sneakpeak of the page](./dist/Assets/eureka.png)
 
 ## Contributing
 - It is Okay to make my code dirty.
